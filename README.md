@@ -20,8 +20,18 @@ Bu proje, Linux Scriptleri ve Araçları dersi kapsamında, **Shell Scripting (B
 -  **Hızlı İşlem**: Tek tıkla profesyonel düzenlemeler
 -  **Zengin Özellikler**: Format dönüştürme, boyutlandırma, efektler ve daha fazlası
 -  **İki Arayüz**: Grafik (YAD) ve Terminal (whiptail) seçenekleri
--  **PARDUS  Tam Uyumlu**: Yerli işletim sistemimizde mükemmel çalışır
+-  **PARDUS  Tam Uyumlu**: Yerli işletim sistemimizde sorunsuz çalışır
 
+---
+## Video Tanıtımı
+
+ **YouTube Videosu**: [ImageMagic Studio - Tanıtım ve Kullanım]( )
+Videoda:
+-  Kurulum adımları
+-  GUI ve TUI kullanımı
+-  Tüm özelliklerin demonstrasyonu
+-  Örnek kullanım senaryoları
+-  İpuçları ve püf noktaları
 ---
 
 ##  Özellikler
