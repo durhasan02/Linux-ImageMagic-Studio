@@ -194,7 +194,7 @@ chmod +x imagemagic-tui.sh
 
 ```bash
 # Repoyu klonlayın
-git clone https://github.com/[durhasan02]/Linux-ImageMagic-Studio.git
+git clone https://github.com/durhasan02/Linux-ImageMagic-Studio.git
 cd Linux-ImageMagic-Studio
 
 # Kurulum scriptini çalıştırın
