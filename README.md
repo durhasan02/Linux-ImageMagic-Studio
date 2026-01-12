@@ -406,8 +406,7 @@ convert $images "$output"
 ---
 **Proje Sahibi**: [Durhasan Yazğan]  
 **E-posta**: [durhasanyazgan@gmail.com]  
-**GitHub**: [@durhasan02](https://github.com/durhasan02)
----
+
 ## Ek Kaynaklar
 
 - [ImageMagick Resmi Dokümantasyonu](https://imagemagick.org/index.php)
