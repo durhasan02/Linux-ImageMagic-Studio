@@ -29,16 +29,11 @@ Bu proje, Linux Scriptleri ve Araçları dersi kapsamında, **Shell Scripting (B
 ###  Dosya İşlemleri
 -  Resim seçme ve önizleme
 -  Detaylı resim bilgileri (boyut, format, EXIF vb.)
-- Gui:![Ana Menü](screenshots/gui-ana-menu.png)
 
 ###  Format Dönüştürme
 - **Desteklenen Formatlar**: JPG, PNG, WEBP, BMP, GIF, TIFF
 - Kalite ayarı (1-100)
 - Tek tık ile dönüştürme
-- Gui:![ Gui Format Değiştirme](screenshots/gui-format.png)
-- Tui:![Tui Format Değiştirme](screenshots/tui-format.png)
-
-
   
 ###  Boyutlandırma
 - **Piksel bazlı**: Manuel genişlik x yükseklik
@@ -85,6 +80,68 @@ Bu proje, Linux Scriptleri ve Araçları dersi kapsamında, **Shell Scripting (B
 ---
 
 ##  Ekran Görüntüleri
+
+### GUI Sürümü (YAD)
+
+#### Ana Menü
+![Ana Menü](screenshots/gui-ana-menu.png)
+*Modern ve kullanıcı dostu ana menü*
+
+#### Format Dönüştürme
+![ Gui Format Değiştirme](screenshots/gui-format.png)
+*Kolay format dönüştürme arayüzü*
+
+#### Boyutlandırma
+![Boyutlandırma](screenshots/gui-boyutlandırma.png)
+*Hazır boyutlar ve özel boyutlandırma seçenekleri*
+
+#### Efektler
+![Efektler](screenshots/gui-efekt.png)
+*Çeşitli filtre ve efektler*
+
+#### PDF Oluşturma
+![PDF Oluşturma](screenshots/gui-pdf.png)
+*Birden fazla resimden PDF oluşturma*
+
+#### Metin Ekleme
+![Metin Ekleme](screenshots/gui-metin-ekle.png)
+*Resmin istenilen her hangi bir yerine istenilen renkte metin ekleme*
+
+#### Resmi döndürme
+![Resmi Döndürme](screenshots/gui-dondurme.png)
+*Resmi döndürme*
+
+### TUI Sürümü (whiptail)
+
+#### TUI Ana Menü
+![TUI Menü](screenshots/tui-ana-menu.png)
+*Terminal tabanlı kullanıcı arayüzü*
+
+#### EFEKT
+![Efek Ekleme](screenshots/tui-efekt.png)
+*Çeşitli efekler ekleme*
+
+#### Format Değiştirme
+![Format Değiştirme](screenshots/tui-format.png)
+*Farklı formatlara değiştirme*
+
+#### Metin ekleme
+![Metin  Ekleme](screenshots/tui-metin.png)
+*Resmin istenilen herhangi bir yerine istenilen renkte ve boyutta metin ekleme*
+
+#### Resmi kırpma
+![Resmi Kırpma](screenshots/kırpma.png)
+*Resmi kırpma*
+
+#### PDF dönüştürme
+![PDF Dönüştürme](screenshots/tui-pdf.png)
+![](screenshots/tui-pdf1.png)
+*Seçilen dizindeki resimleri pdf dönüştürme*
+
+---
+#### imagemagic output
+![imagemagic output](screenshots/output.png)
+*işlem yapılan resimlerin tutulduğu output klasörü*
 
 ### GUI Sürümü (YAD)
 
