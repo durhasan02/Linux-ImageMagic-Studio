@@ -190,39 +190,6 @@ chmod +x imagemagic-tui.sh
 ./imagemagic-tui.sh   # TUI sürümü
 ```
 
-### Otomatik Kurulum (Önerilen)
-
-```bash
-# Repoyu klonlayın
-git clone https://github.com/durhasan02/Linux-ImageMagic-Studio.git
-cd Linux-ImageMagic-Studio
-
-# Kurulum scriptini çalıştırın
-chmod +x install.sh
-./install.sh
-```
-
-Kurulum scripti otomatik olarak:
-- Gerekli bağımlılıkları kurar
-- Program dosyalarını doğru konuma kopyalar
-- PATH yapılandırmasını yapar
-
-### Manuel Kurulum
-
-```bash
-# 1. Bağımlılıkları kurun
-sudo apt update
-sudo apt install imagemagick yad whiptail bc
-
-# 2. Scriptleri çalıştırılabilir yapın
-chmod +x imagemagic-gui.sh
-chmod +x imagemagic-tui.sh
-
-# 3. Programları kullanmaya başlayın
-./imagemagic-gui.sh   # GUI sürümü
-./imagemagic-tui.sh   # TUI sürümü
-```
-
 ---
 
 ##  Kullanım
@@ -331,16 +298,6 @@ Terminal arayüzü ile kullanım:
 - `yad` (GUI için)
 - `whiptail` (TUI için)
 - `bc` (hesaplamalar için)
-
-### Kurulum Kontrolü
-
-```bash
-# Sürümleri kontrol edin
-bash --version
-convert --version
-yad --version
-whiptail --version
-```
 
 ---
 
